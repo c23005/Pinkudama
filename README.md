@@ -46,7 +46,7 @@ Unity 2022.3.7f1
 
 ## ゲームスクリーン
 
-<img src="https://github.com/c23005/Pinkudama/blob/main/ScreenShot/Title.png" width="480px">
-<img src="https://github.com/c23005/Pinkudama/blob/main/ScreenShot/Play2.png" width="480px">
-<img src="https://github.com/c23005/Pinkudama/blob/main/ScreenShot/Result_Win.png" width="480px">
-<img src="https://github.com/c23005/Pinkudama/blob/main/ScreenShot/Result_Lose.png" width="480px">
+<img src="https://github.com/c23005/Pinkudama/blob/main/ScreenShot/Title.png" width="720px">
+<img src="https://github.com/c23005/Pinkudama/blob/main/ScreenShot/Play2.png" width="720px">
+<img src="https://github.com/c23005/Pinkudama/blob/main/ScreenShot/Result_Win.png" width="720px">
+<img src="https://github.com/c23005/Pinkudama/blob/main/ScreenShot/Result_Lose.png" width="720px">
